@@ -1,15 +1,7 @@
 # SmoothScript
-![pupyl](https://raw.githubusercontent.com/policratus/pupyl/master/docs/pupyl.png)
-![pupyl-ci](https://github.com/policratus/pupyl/workflows/pupyl-ci/badge.svg)
-[![codecov](https://codecov.io/gh/policratus/pupyl/branch/master/graph/badge.svg)](https://codecov.io/gh/policratus/pupyl)
-[![anaconda](https://anaconda.org/policratus/pupyl/badges/version.svg)](https://anaconda.org/policratus/pupyl/badges/version.svg)
-[![PyPI version](https://badge.fury.io/py/pupyl.svg)](https://badge.fury.io/py/pupyl)
-[![Documentation Status](https://readthedocs.org/projects/pupyl/badge/?version=latest)](https://pupyl.readthedocs.io/en/latest/?badge=latest)
-[![Downloads](https://pepy.tech/badge/pupyl)](https://pepy.tech/project/pupyl)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4325/badge)](https://bestpractices.coreinfrastructure.org/projects/4325)
-[![Anaconda-Server Badge](https://anaconda.org/policratus/pupyl/badges/platforms.svg)](https://anaconda.org/policratus/pupyl)
+![pupyl](https://i.postimg.cc/PqLy433K/smooth2.png)
 
-# pupyl - A Python Image Search Library
+# SmoothScript - A Pythonic Smart tools & Graphical user interfaces
 
 ![pupyl](https://user-images.githubusercontent.com/827563/133819347-f5b6b2f2-a4aa-4ec6-aa23-3dd81e46b857.gif)
 
